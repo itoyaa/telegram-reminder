@@ -1,0 +1,22 @@
+{
+    "timezone_schema": "^[\\+-]\\d\\d:\\d\\d$",
+
+    "db_file": "mydb.db",
+
+    "start_message": "Please, enter your timezone in the format \"\u00B1HH:MM\"\nFor example: \"+03:00\" for Moscow Time",
+    "fail_message": "Sorry, I can't understand you. Please try again 😢",
+    "acceptable_timezone_message": "OK",
+    "hello_again_message": "Hello again",
+    "add_date_request": "Waiting for date\n For example: 11.09.2001 8:46",
+    "add_message_request": "Waiting for text",
+    "success": "Success",
+    "no_notes": "No notes yet...",
+    "note_deleted": "Your note has been deleted",
+    "welcome_list": "It's your list",
+    "menu": "Back to menu",
+    "edit_note_text":"Send me new text",
+
+    "add_key": "ADD NOTE",
+    "list_key": "LIST",
+    "cancel_key": "CANCEL"
+}
