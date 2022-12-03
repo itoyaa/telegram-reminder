@@ -1,2 +1,3 @@
-python-dateutil
-PyTelegramBotAPI
+python-dateutil==2.8.2
+PyTelegramBotAPI==4.8.0
+
